@@ -19,7 +19,7 @@ See the LICENSE file for details.
 
 Credits
 -------
-Created by Summer Students for the [CERN Webfest](http://www.citizencyberscience.net/cern-webfest/):
+Created by CERN Summer Students for the [CERN Webfest](http://www.citizencyberscience.net/cern-webfest/):
 
 * Alejandro Avilés - [@OmeGak](http://twitter.com/OmeGak)
 * André-Pierre Olivie
