@@ -114,6 +114,7 @@ define(['character'], function(Character) {
             "Farewell, young friend."
         ],
         
+		// sorcerer is in the region just below ocotocat.
         "sorcerer": [
             "Ah... I had foreseen you would come to see me.",
             "Well? How do you like my new staff?",
@@ -128,10 +129,15 @@ define(['character'], function(Character) {
             "Good luck."
         ],
         
+		// octocat is now top-quark
         "octocat": [
-            "Welcome to BrowserQuest!",
-            "Want to see the source code?",
-            'Check out <a target="_blank" href="http://github.com/mozilla/BrowserQuest">the repository on GitHub</a>'
+            "Welcome to ParticleQuest, fearles young scientist!",
+			"The discovery of the Higgs Boson has caused all the particles to become extremely massive",
+            "Now there has been a terrible meltdown at the LHC",
+			"And all the particles have escaped!",
+			"Please, you are young and spritely.",
+			"We desperately need your help to find the Higgs Boson",
+			"And stop this madness!"
         ],
         
         "coder": [
