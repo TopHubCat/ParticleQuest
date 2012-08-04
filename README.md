@@ -26,3 +26,7 @@ Created by CERN Summer Students for the [CERN Webfest](http://www.citizencybersc
 * Angelo Marco Ramoso - [@icanseemyhalo](http://twitter.com/icanseemyhalo)
 * Jessy Katy Schingler - [@jessykate](http://twitter.com/jessykate)
 * Quentin Mazars-Simon - [@quentinms](http://twitter.com/quentinms)
+
+Special Thanks!
+* mozilla for the original BrowserQuest code
+* [sgricci](https://github.com/sgricci) for the [key movement code](https://github.com/mozilla/BrowserQuest/pull/24)
