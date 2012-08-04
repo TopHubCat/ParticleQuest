@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Script to generate an optimized client build of BrowserQuest
+# Script to generate an optimized client build of ParticleQuest
 
 BUILDDIR="../client-build"
 PROJECTDIR="../client/js"

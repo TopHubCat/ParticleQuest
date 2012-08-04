@@ -1,7 +1,7 @@
-BrowserQuest
+ParticleQuest
 ============
 
-BrowserQuest is a HTML5/JavaScript multiplayer game experiment.
+ParticleQuest is a HTML5/JavaScript multiplayer game experiment.
 
 
 Documentation
