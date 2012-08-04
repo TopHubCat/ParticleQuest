@@ -19,7 +19,10 @@ See the LICENSE file for details.
 
 Credits
 -------
-Created by [Little Workshop](http://www.littleworkshop.fr):
+Created by CERN Summer Students for the [CERN Webfest](http://www.citizencyberscience.net/cern-webfest/):
 
-* Franck Lecollinet - [@whatthefranck](http://twitter.com/whatthefranck)
-* Guillaume Lecollinet - [@glecollinet](http://twitter.com/glecollinet)
+* Alejandro Avilés - [@OmeGak](http://twitter.com/OmeGak)
+* André-Pierre Olivie
+* Angelo Marco Ramoso - [@icanseemyhalo](http://twitter.com/icanseemyhalo)
+* Jessy Katy Schingler - [@jessykate](http://twitter.com/jessykate)
+* Quentin Mazars-Simon - [@quentinms](http://twitter.com/quentinms)
