@@ -1,7 +1,7 @@
 ParticleQuest
 ============
 
-ParticleQuest is a HTML5/JavaScript multiplayer game experiment.
+ParticleQuest is a HTML5/JavaScript multiplayer game experiment for making Particle Physics fun.
 
 
 Documentation
@@ -19,7 +19,7 @@ See the LICENSE file for details.
 
 Credits
 -------
-Created by CERN Summer Students for the [CERN Webfest](http://www.citizencyberscience.net/cern-webfest/):
+Forked by CERN Summer Students for the [CERN Webfest](http://www.citizencyberscience.net/cern-webfest/).
 
 * Alejandro Avilés - [@OmeGak](http://twitter.com/OmeGak)
 * André-Pierre Olivie
@@ -30,3 +30,7 @@ Created by CERN Summer Students for the [CERN Webfest](http://www.citizencybersc
 Special Thanks!
 * mozilla for the original BrowserQuest code
 * [sgricci](https://github.com/sgricci) for the [key movement code](https://github.com/mozilla/BrowserQuest/pull/24)
+
+Awards
+------
+Winner project at [CERN Summer Student Webfest](http://www.citizencyberscience.net/cern-webfest/).
