@@ -171,13 +171,13 @@ function(InfoManager, BubbleManager, Renderer, Map, Animation, Sprite, AnimatedT
             this.achievements = {
                 A_TRUE_WARRIOR: {
                     id: 1,
-                    name: "A True Warrior",
-                    desc: "Find a new weapon"
+                    name: "Defender of Logic ",
+                    desc: "Arm yourself with particle defenses"
                 },
                 INTO_THE_WILD: {
                     id: 2,
-                    name: "Into the Wild",
-                    desc: "Venture outside the village"
+                    name: "Studying Abroad",
+                    desc: "Venture outside the CERN campus"
                 },
                 ANGRY_RATS: {
                     id: 3,
@@ -1341,6 +1341,14 @@ function(InfoManager, BubbleManager, Renderer, Map, Animation, Sprite, AnimatedT
                     if(mobName === 'skeleton2') {
                         mobName = 'greater skeleton';
                     }
+
+                    if(mobName === 'bat') {
+                        mobName = 'Evil Electron';
+                    }
+                    
+                    if(mobName === 'rat') {
+                        mobName = 'Strange Quark';
+                    }
                     
                     if(mobName === 'eye') {
                         mobName = 'evil eye';
@@ -1354,9 +1362,9 @@ function(InfoManager, BubbleManager, Renderer, Map, Animation, Sprite, AnimatedT
                         self.showNotification("You killed the skeleton king");
                     } else {
                         if(_.include(['a', 'e', 'i', 'o', 'u'], mobName[0])) {
-                            self.showNotification("You killed an " + mobName);
+                            self.showNotification("You have annihilated an " + mobName);
                         } else {
-                            self.showNotification("You killed a " + mobName);
+                            self.showNotification("You have annihilated a massive " + mobName);
                         }
                     }
                     

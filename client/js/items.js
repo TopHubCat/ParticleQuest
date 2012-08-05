@@ -6,7 +6,7 @@ define(['item'], function(Item) {
         Sword2: Item.extend({
             init: function(id) {
                 this._super(id, Types.Entities.SWORD2, "weapon");
-                this.lootMessage = "You pick up a steel sword";
+                this.lootMessage = "You pick up an anti-matter ray-sword.";
             },
         }),
 
@@ -83,7 +83,7 @@ define(['item'], function(Item) {
         Flask: Item.extend({
             init: function(id) {
                 this._super(id, Types.Entities.FLASK, "object");
-                this.lootMessage = "You drink a health potion";
+                this.lootMessage = "You fortify yourself against particle radiation.";
             },
         }),
         
