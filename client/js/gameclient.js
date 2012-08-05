@@ -98,9 +98,9 @@ define(['player', 'entityfactory', 'lib/bison'], function(Player, EntityFactory,
                     
                     if(self.disconnected_callback) {
                         if(self.isTimeout) {
-                            self.disconnected_callback("You have been disconnected for being inactive for too long");
+                            self.disconnected_callback("Oh noes! You have been inactive for so long, the universe<br>has been vaporized by anti-particles.");
                         } else {
-                            self.disconnected_callback("The connection to ParticleQuest has been lost");
+                            self.disconnected_callback("There appears to have been a spontaneous combustion of the universe.");
                         }
                     }
                 };

@@ -24,8 +24,8 @@ define(['character'], function(Character) {
     
         "villagegirl": [
 			"You see that? ",
-		    "You see that? ",
-			"You see that? ",
+		    "And that too? ",
+			"And that rock over there? ",
 			"You can see that because of me. ",
 			"I'm Photon. "
         ],
@@ -39,7 +39,7 @@ define(['character'], function(Character) {
 			"Yellow she affords ",
 			"Only scantly and selectly, ",
 			"Like a lover's words. ",
-			"-- Emily Dickinson  "
+			"-- Emily Dickinson  ",
 			"Oh by the way, I'm Gluon."
         ],
     
@@ -108,7 +108,7 @@ define(['character'], function(Character) {
 			"...living with a secret...",
 			"...that was never shared... ",
 			"...like loving you...",
-			"...would be this hard."
+			"...would be this hard.",
 			"...",
 			"Let the rain fall down... ",
 			"...over my head... ",
