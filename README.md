@@ -17,6 +17,10 @@ Code is licensed under MPL 2.0. Content is licensed under CC-BY-SA 3.0.
 See the LICENSE file for details.
 
 
+Awards
+------
+Winner project at [CERN Summer Student Webfest](http://www.citizencyberscience.net/cern-webfest/).
+
 Credits
 -------
 Forked by CERN Summer Students for the [CERN Webfest](http://www.citizencyberscience.net/cern-webfest/).
@@ -30,7 +34,3 @@ Forked by CERN Summer Students for the [CERN Webfest](http://www.citizencybersci
 Special Thanks!
 * mozilla for the original BrowserQuest code
 * [sgricci](https://github.com/sgricci) for the [key movement code](https://github.com/mozilla/BrowserQuest/pull/24)
-
-Awards
-------
-Winner project at [CERN Summer Student Webfest](http://www.citizencyberscience.net/cern-webfest/).
